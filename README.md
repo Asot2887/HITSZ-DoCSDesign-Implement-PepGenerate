@@ -1,6 +1,12 @@
 # HITSZ-DoCSDesign-Implement-PepGenerate
 HITSZ 2022秋 面向领域的计算机设计与实践 复现并尝试优化用于生成肽链的FBGAN模型
 
+### 介绍
+  本仓库用于保存课程代码。主要包括训练在mnist上的WGAN、稍作修改的FBGAN源码、对FBGAN生成数据的分析等
+
 ### FBGAN 
-论文：https://doi.org/10.1038/s42256-019-0017-4
-源码：https://github.com/av1659/fbgan
++ 论文：https://doi.org/10.1038/s42256-019-0017-4
++ 源码：https://github.com/av1659/fbgan
+
+### 仓库结构
+
